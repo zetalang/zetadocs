@@ -17,6 +17,7 @@ module.exports = {
       title: 'Zeta language',
       logo: {
         alt: 'My Site Logo',
+        href: "/",
         src: '/img/logo.svg',
       },
       
