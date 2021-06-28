@@ -6,7 +6,7 @@ module.exports = {
   title: 'Zetalang',
   tagline: "Zeta is a programming language designed for CLI applications",
   url: 'https://zetalang.github.io/',
-  baseUrl: '/zetadocs/',
+  baseUrl: 'https://zetalang.github.io/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
