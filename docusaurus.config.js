@@ -17,7 +17,7 @@ module.exports = {
       title: 'Zeta language',
       logo: {
         alt: 'My Site Logo',
-        href: "https://zetalang.github.io/",
+        href: "/docs/intro",
         src: '/img/logo.svg',
       },
       
