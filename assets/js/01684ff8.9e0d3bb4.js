@@ -1,0 +1,1 @@
+(self.webpackChunkzetadocs=self.webpackChunkzetadocs||[]).push([[204],{1866:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"https://zetalang.github.io/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"https://zetalang.github.io/blog/tags/hola"}')}}]);
