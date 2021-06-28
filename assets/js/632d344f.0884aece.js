@@ -1,0 +1,1 @@
+(self.webpackChunkzetadocs=self.webpackChunkzetadocs||[]).push([[760],{6511:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/zetadocs/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/zetadocs/blog/tags/facebook"}')}}]);

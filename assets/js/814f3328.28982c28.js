@@ -1,0 +1,1 @@
+(self.webpackChunkzetadocs=self.webpackChunkzetadocs||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/zetadocs/blog/welcome"},{"title":"Hello","permalink":"/zetadocs/blog/hello-world"},{"title":"Hola","permalink":"/zetadocs/blog/hola"}]}')}}]);

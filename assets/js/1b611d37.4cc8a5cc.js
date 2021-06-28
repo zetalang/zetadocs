@@ -1,0 +1,1 @@
+(self.webpackChunkzetadocs=self.webpackChunkzetadocs||[]).push([[882],{5062:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/zetadocs/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/zetadocs/blog/tags/docusaurus"}')}}]);
