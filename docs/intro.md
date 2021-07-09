@@ -8,7 +8,7 @@ Intro to **Zeta Lang in 5 mins**
 
 ### What makes **Zeta special**
 
-- **Gauranteed memory** safety
+- **Guaranteed memory** safety
 - **Error handling**
 - In a **few lines** the configuration for a cli will be done
 - Rich **standard library**
